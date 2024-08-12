@@ -14,3 +14,4 @@ result = sum_of_evens(sample_list)
 
 # Print the result
 print("Sum of even numbers:", result)
+mini
